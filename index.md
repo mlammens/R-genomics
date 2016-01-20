@@ -7,7 +7,7 @@ maintainers: ["Tracy Teal"]
 domain: Genomics
 topic: R
 software: R
-dataurl:
+dataurl: https://github.com/mlammens/R-genomics/blob/gh-pages/Ecoli_metadata.csv
 status: Under Development
 ---
 
